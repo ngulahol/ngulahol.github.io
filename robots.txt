@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ngulahol.github.io/sitemap
+Sitemap: https://ngulahol.github.io/app/sitemap
+Sitemap: https://ngulahol.github.io/assets/sitemap
+Sitemap: https://ngulahol.github.io/css/sitemap
+Sitemap: https://ngulahol.github.io/includes/sitemap
+Sitemap: https://ngulahol.github.io/item/sitemap
+Sitemap: https://ngulahol.github.io/src/sitemap
